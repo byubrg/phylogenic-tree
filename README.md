@@ -48,7 +48,7 @@ b. Support short and fat phylogenies
 
 
 Authors:
-Dane Jo
-atambe123
-rhadden2
+Dane Jo,
+atambe123,
+rhadden2,
 Snicker7
