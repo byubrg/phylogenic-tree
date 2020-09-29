@@ -45,3 +45,9 @@ b. Support short and fat phylogenies
 19. Option for circular phylogeny
 20. Option for phylogeny/ clade titles
 21. Option for a watermark
+
+
+Authors:
+atambe123
+rhadden2
+Snicker7
